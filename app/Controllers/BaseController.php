@@ -6,7 +6,6 @@ use CodeIgniter\Controller;
 use CodeIgniter\HTTP\RequestInterface;
 use CodeIgniter\HTTP\ResponseInterface;
 use Psr\Log\LoggerInterface;
-dddd
 /**
  * Class BaseController
  *
@@ -20,7 +19,7 @@ dddd
 
 class BaseController extends Controller
 {
-	/**
+	/**  dddd
 	 * An array of helpers to be loaded automatically upon
 	 * class instantiation. These helpers will be available
 	 * to all other controllers that extend BaseController.
